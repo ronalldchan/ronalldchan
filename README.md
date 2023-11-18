@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ronald, a fourth-year computer science student at The University of British Columbia. With hands-on experience as a Quality Assurance Engineer, I've honed my skills in ensuring the seamless functionality and reliability of software solutions.
+I'm Ronald, a fourth-year computer science student at The University of British Columbia. Feel free to explore my GitHub and find something new!
 
 <!--
 **ronalldchan/ronalldchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
